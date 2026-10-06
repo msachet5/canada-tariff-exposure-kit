@@ -1,0 +1,7 @@
+date,supplier,description,tariff_item,origin,customs_value_cad,cusma_claimed
+2026-02-10,Example Supplier A,fictional widget,9999.10.00,US,10000,false
+2026-07-15,Example Supplier A,fictional widget,9999.10.00,US,8000,false
+2026-03-01,Example Supplier B,fictional gadget,9999.20.40,US,5000,true
+2026-03-05,Example Supplier B,fictional gadget,9999.20.40,US,4000,false
+2026-04-01,Example Supplier C,fictional part,9999.10.00,MX,7000,true
+2026-04-02,Example Supplier D,unlisted item,8888.00.00,US,3000,false

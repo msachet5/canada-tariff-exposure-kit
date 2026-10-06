@@ -1,0 +1,4 @@
+order_id,tariff_item,description,surtax_rate,effective_from,effective_to,cusma_exempt,source_url,retrieved_at
+EXAMPLE-1,9999.10.00,EXAMPLE ONLY: fictional item for tests,0.25,2026-01-01,,false,https://example.org,2026-01-01
+EXAMPLE-1,9999.20,EXAMPLE ONLY: fictional heading-level entry,0.15,2026-01-01,,true,https://example.org,2026-01-01
+EXAMPLE-2,9999.10.00,EXAMPLE ONLY: rate change on the same item,0.50,2026-06-01,,false,https://example.org,2026-06-01
